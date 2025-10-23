@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "SmokinWheelsPhx",
+	"Description": "Fleet-ready UE5 vehicle physics: per-scene Chaos async sim, thread-safe GT ↔ PT pipeline, and per-vehicle parallelism via Chaos::PhysicsParallelFor().",
+	"Category": "Physics",
+	"CreatedBy": "Federico Grenoville",
+	"CreatedByURL": "https://medium.com/@federicogrenoville",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "SmokinWheelsPhx",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
