@@ -67,7 +67,7 @@ swp.DebugDraw.Cats [Suspension, Engine, Aero...]
 
 This project is explained in detail in my Medium article:
 
-👉 From one car to a fleet: asynchronous physics in UE5 that scales with multithreading (pending approval)
+👉 [From one car to a fleet: asynchronous physics in UE5 that scales with multithreading](https://medium.com/gitconnected/from-one-car-to-a-fleet-asynchronous-physics-in-ue5-that-scales-with-multithreading-d322b2b94001)
 
 
 If you want to dive into the theory behind integration and physics in game engines, check out the previous article here:
